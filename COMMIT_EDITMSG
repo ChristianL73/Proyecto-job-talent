@@ -1,0 +1,20 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   css/style.css
+#	modified:   index.html
+#	modified:   page/portales.html
+#	modified:   page/promociones.html
+#	modified:   page/quienes_somos.html
+#	modified:   page/servicios.html
+#	new file:   page/style.scss
+#
+# Untracked files:
+#	page/style.css
+#	page/style.css.map
+#
